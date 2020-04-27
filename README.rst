@@ -12,6 +12,7 @@ Toytree
 .. image:: https://travis-ci.org/eaton-lab/toytree.svg?branch=master
     :target: https://travis-ci.org/eaton-lab/toytree
        
+       
 
 Tree plotting with **Toytree**
 ------------------------------
